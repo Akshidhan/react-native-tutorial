@@ -6,7 +6,7 @@ const Signup
   return (
     <View>
       <Text>Signup</Text>
-      <Link href="/(auth)/sign-up">Go to Signup</Link>
+      <Link href="/(auth)/sign-up">Go to Signin</Link>
     </View>
   )
 }
